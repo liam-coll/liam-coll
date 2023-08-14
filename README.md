@@ -1,5 +1,4 @@
-### Hi there 👋
-
+Front end developer ⚙️, creative technologist 🎨👨‍💻 and general Maker of Things 🔧🔨 in Tāmaki Makaurau Auckland
 <!--
 **liam-coll/liam-coll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
